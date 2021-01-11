@@ -1,0 +1,10 @@
+red,defender,9,0,3,1,9,pipis1,false
+red,defender,7,3,4,2,7,talak2,false
+red,defender,8,2,5,6,8,talak12,false
+red,striker,1,2,1,0,1,pien3
+red,striker,2,3,2,0,2,talaken4
+blue,defender,1,5,1,3,1,pipis6,false
+blue,defender,2,2,2,7,2,talak6,false
+blue,defender,0,0,3,8,0,talak31,false
+blue,striker,7,2,4,9,7,pien7
+blue,striker,8,3,5,9,8,taen8
